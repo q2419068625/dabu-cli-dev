@@ -17,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
@@ -26,5 +26,5 @@
   "dependencies": {
     "dabu-test": "^1.0.0"
   },
-  "gitHead": "a60b2f642d466c3f6f64039c16be04d0f3175a65"
+  "gitHead": "f97898c09b26ca4fdec7b82edabcfc604d2dd4c5"
 }
